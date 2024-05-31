@@ -56,7 +56,7 @@ I taught myself HTML over 25 years ago and continue to keep my coding skills up-
 <br>
 <br>
 
-<h2>Plugins I Work With</h2>
+<h2>Some of the Plugins I Work With</h2>
 <BR>
 <a href="https://analytics.google.com">
 <img src="https://github.com/meggrooms/webdesign/blob/main/Screenshot%202024-05-31%20at%201.21.33%20PM.png?raw=true" width=400"></a>
