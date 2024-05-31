@@ -58,7 +58,12 @@ I taught myself HTML over 25 years ago and work hard to keep my coding skills up
 
 <br>
 <br>
-## Plug-ins I Work With
+<hr>
+<h2>Plugins I Work With</h2>
+<BR>
+woo
+yoast
+google analytics
 
 
 
