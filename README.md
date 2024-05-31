@@ -39,6 +39,7 @@ I taught myself HTML over 25 years ago and work hard to keep my coding skills up
 
 <BR>
 <BR>
+<hr>
 
 ## Ecommerce Platforms I Work With
 <br>
