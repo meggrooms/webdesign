@@ -21,6 +21,12 @@ I taught myself HTML over 25 years ago and have worked hard to keep my coding up
 <hr>
 
 ## Platforms I Work With
+<BR>
+<a href="https://wordpress.com">
+<img src="https://github.com/meggrooms/webdesign/blob/main/Screenshot%202024-05-31%20at%2012.56.57%20PM.png?raw=true" width=150"></a>
+
+<a href="https://squarespace.com">
+<img src="https://github.com/meggrooms/webdesign/blob/main/Squarespace_logo_PNG5.png?raw=true" width=200"></a>
 
 ## Ecommerce Platforms I Work With
 <br>
