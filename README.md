@@ -62,10 +62,13 @@ I taught myself HTML over 25 years ago and work hard to keep my coding skills up
 <h2>Plugins I Work With</h2>
 <BR>
 <a href="https://analytics.google.com">
-<img src="https://github.com/meggrooms/webdesign/blob/main/Screenshot%202024-05-31%20at%201.21.33%20PM.png?raw=true" width=300"></a>
+<img src="https://github.com/meggrooms/webdesign/blob/main/Screenshot%202024-05-31%20at%201.21.33%20PM.png?raw=true" width=400"></a>
 
 <a href="https://yoast.com">
 <img src="https://github.com/meggrooms/webdesign/blob/main/Screenshot%202024-05-31%20at%201.26.06%20PM.png?raw=true" width=200"></a>
+
+<a href="https://woocommerce.com/">
+<img src="https://github.com/meggrooms/Gameschool_Academy/blob/main/Screenshot%202024-05-31%20at%2012.37.55%20PM.png?raw=true" with=100"></a>
 
 
 <BR>
