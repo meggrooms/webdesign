@@ -33,7 +33,6 @@ I taught myself HTML over 25 years ago and work hard to keep my coding skills up
 <a href="https://wix.com">
 <img src="https://github.com/meggrooms/webdesign/blob/main/wix-com(1).jpg?raw=true" width=200"></a>
 
-
 <a href="shopify.com">
 <img src="https://github.com/meggrooms/Gameschool_Academy/blob/main/9f2c56f4979acbc65a3617c005ee7021(1).png?raw=true" width=200"></a>
 
@@ -68,15 +67,10 @@ I taught myself HTML over 25 years ago and work hard to keep my coding skills up
 <img src="https://github.com/meggrooms/webdesign/blob/main/Screenshot%202024-05-31%20at%201.26.06%20PM.png?raw=true" width=200"></a>
 
 <a href="https://woocommerce.com/">
-<img src="https://github.com/meggrooms/Gameschool_Academy/blob/main/Screenshot%202024-05-31%20at%2012.37.55%20PM.png?raw=true" with=100"></a>
+<img src="https://github.com/meggrooms/Gameschool_Academy/blob/main/Screenshot%202024-05-31%20at%2012.37.55%20PM.png?raw=true" with=150"></a>
 
 
-<BR>
-<BR>
 
-woo
-yoast
-google analytics
 
 
 
