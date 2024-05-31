@@ -20,13 +20,22 @@ I taught myself HTML over 25 years ago and have worked hard to keep my coding up
 
 <hr>
 
+<BR>
+
 ## Platforms I Work With
 <BR>
 <a href="https://wordpress.com">
-<img src="https://github.com/meggrooms/webdesign/blob/main/Screenshot%202024-05-31%20at%2012.56.57%20PM.png?raw=true" width=150"></a>
+<img src="https://github.com/meggrooms/webdesign/blob/main/Screenshot%202024-05-31%20at%2012.56.57%20PM.png?raw=true" width=200"></a>
 
 <a href="https://squarespace.com">
-<img src="https://github.com/meggrooms/webdesign/blob/main/Squarespace_logo_PNG5.png?raw=true" width=200"></a>
+<img src="https://github.com/meggrooms/webdesign/blob/main/Squarespace_logo_PNG5.png?raw=true" width=300"></a>
+
+<a href="https://wix.com">
+<img src="https://github.com/meggrooms/webdesign/blob/main/wix-com(1).jpg?raw=true" width=200"></a>
+
+
+<BR>
+<BR>
 
 ## Ecommerce Platforms I Work With
 <br>
@@ -43,6 +52,8 @@ I taught myself HTML over 25 years ago and have worked hard to keep my coding up
 <img src="https://raw.githubusercontent.com/meggrooms/webdesign/d760e7bebf895d46b4ccf00df91d5ef9fedcb3c5/Screenshot%202024-05-31%20at%2012.48.08%20PM.png"></a>
 
 
+<br>
+<br>
 ## Plug-ins I Work With
 
 
