@@ -1,7 +1,6 @@
-# Gameschool_Academy
-Gameschool Academy was founded in 2013 by Meg Grooms.
+# Web Design Appearance
 ## Appearance
-My own website, Gameschool Academy, has evolved from a standard mommy blog to a full website containing informational posts, printable resources, and a community of over 32K members. Average views per month = 95K. Social media followers: 46K
+My website, Gameschool Academy, has evolved from a standard mommy blog to a full website containing informational posts, printable resources, and a community of over 32K members. Average views per month = 95K. Social media followers: 46K
 <br>
 <a href="https://github.com/meggrooms/Gameschool_Academy/commit/1f4bbd9ee432cbd3b1735a86bbd6b02d91c92e57">
 <img src="https://raw.githubusercontent.com/meggrooms/Gameschool_Academy/1f4bbd9ee432cbd3b1735a86bbd6b02d91c92e57/Screenshot%202024-05-31%20at%2012.25.35%20PM.png"> </a>
