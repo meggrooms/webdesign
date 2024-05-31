@@ -17,10 +17,9 @@ I taught myself HTML over 25 years ago and continue to keep my coding skills up-
 <a href="https://github.com/meggrooms/Gameschool_Academy/blob/main/Screenshot%202024-05-31%20at%2012.12.55%20PM.png">
 <img src="https://github.com/meggrooms/Gameschool_Academy/blob/main/Screenshot%202024-05-31%20at%2012.12.55%20PM.png?raw=true" width=450">
 </a>
-
-<hr>
-
+<br>
 <BR>
+
 
 ## Platforms I Work With
 <BR>
@@ -33,12 +32,12 @@ I taught myself HTML over 25 years ago and continue to keep my coding skills up-
 <a href="https://wix.com">
 <img src="https://github.com/meggrooms/webdesign/blob/main/wix-com(1).jpg?raw=true" width=200"></a>
 
-<a href="shopify.com">
+<a href="https://shopify.com">
 <img src="https://github.com/meggrooms/Gameschool_Academy/blob/main/9f2c56f4979acbc65a3617c005ee7021(1).png?raw=true" width=200"></a>
 
 <BR>
 <BR>
-<hr>
+<BR>
 
 ## Ecommerce Platforms I Work With
 <br>
@@ -48,16 +47,15 @@ I taught myself HTML over 25 years ago and continue to keep my coding skills up-
 <a href="https://www.ecwid.com/">
 <img src="https://raw.githubusercontent.com/meggrooms/Gameschool_Academy/383e6538739171df315092a0b98ff0eef207e9f4/Screenshot%202024-05-31%20at%2012.36.04%20PM.png" width=200"></a>
 
-<a href="shopify.com">
+<a href="https://shopify.com">
 <img src="https://github.com/meggrooms/Gameschool_Academy/blob/main/9f2c56f4979acbc65a3617c005ee7021(1).png?raw=true" width=200"></a>
 
 <a href="https://teacherspayteachers.com">
 <img src="https://raw.githubusercontent.com/meggrooms/webdesign/d760e7bebf895d46b4ccf00df91d5ef9fedcb3c5/Screenshot%202024-05-31%20at%2012.48.08%20PM.png" width=200"></a>
-
-
 <br>
 <br>
-<hr>
+<br>
+
 <h2>Plugins I Work With</h2>
 <BR>
 <a href="https://analytics.google.com">
