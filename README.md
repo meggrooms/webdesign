@@ -33,12 +33,8 @@ I taught myself HTML over 25 years ago and have worked hard to keep my coding up
 <a href="shopify.com">
 <img src="https://github.com/meggrooms/Gameschool_Academy/blob/main/9f2c56f4979acbc65a3617c005ee7021(1).png?raw=true" width=300"></a>
 
-
-Shopify
-<br>
-
-Teachers Pay Teachers
-<br>
+<a href="https://teacherspayteachers.com">
+<img src="">
 
 
 ## Plug-ins I Work With
